@@ -16,7 +16,7 @@ As a proficient MERN Stack Developer, I specialize in crafting robust and scalab
 
 ## 🌐 Socials:
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imshaharear@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/likhon.pal.3/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lp.emon.paul@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/likhon.pal.3/) 
 
 ## 💻 Tech Stack:
 
