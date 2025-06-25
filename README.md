@@ -1,4 +1,4 @@
-<img src="./cover.jpg"/>
+<img src="./cover.png"/>
 
 ## 💫 About Me:
 
